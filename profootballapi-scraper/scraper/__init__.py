@@ -5,7 +5,7 @@ import os
 import requests
 
 HOST = "https://profootballapi.com"
-API_KEY = "fUzQxVW3aPvjrGud8etI7C6yYKJhZEnD"
+API_KEY = "FAKE API KEY"
 
 MIN_YEAR = 2009
 MAX_YEAR = 2019
