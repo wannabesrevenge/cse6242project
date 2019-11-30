@@ -1,7 +1,7 @@
 DESCRIPTION
 -----------
-This program retrieves historical NFL data from profootballapi.com and stores it in the folder
-`scraped_data` in your working directory. You can see an example of the output in this repo.
+This program retrieves historical NFL data from https://profootballapi.com and stores it in the
+folder `scraped_data` in your working directory. You can see an example of the output in this repo.
 
 INSTALLATION
 ------------
