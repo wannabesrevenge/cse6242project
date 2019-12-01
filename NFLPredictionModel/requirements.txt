@@ -1,0 +1,9 @@
+numpy
+tensorflow
+matplotlib
+keras
+pandas
+bson
+tensorflow-gpu
+XGBoost
+sklearn
